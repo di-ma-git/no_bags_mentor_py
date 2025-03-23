@@ -1,6 +1,6 @@
 import random
 import string
-from dis import CACHE
+
 
 # Напишите программу, которая удаляет все чётные числа из ArrayList.
 
